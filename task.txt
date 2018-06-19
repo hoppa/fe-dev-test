@@ -4,6 +4,6 @@ Please complete the following:
 2. Ensure the page works for all screen sizes (Feel free to decide how it folds on smaller devices!).
 3. You can make use of additional plugins/tools.
 
-All assets are included in the Hoppa Task folder.
+All assets are included in the images folder.
 
 Please bring your files to your interview.
