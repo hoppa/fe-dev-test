@@ -8,4 +8,4 @@ Please complete the following:
 
 All assets are included in the images folder.
 
-Please bring your files to your interview.
+Please email the completed files to danny.angus@hoppa.com and howard@hoppa.com
