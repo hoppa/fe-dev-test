@@ -8,4 +8,4 @@ Please complete the following:
 
 All assets are included in the images folder.
 
-Please email the completed files to danny.angus@hoppa.com and howard@hoppa.com
+Please zip the files and email to danny.angus@hoppa.com and howard@hoppa.com
