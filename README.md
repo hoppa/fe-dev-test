@@ -1,6 +1,6 @@
 # fe-dev-test
 
-Please complete the following:
+Please download the above files and complete the following:
 
 1. Use index.html to create task.jpg using Bootstrap 3.
 2. Ensure the page works for all screen sizes (Feel free to decide how it folds on smaller devices!).
