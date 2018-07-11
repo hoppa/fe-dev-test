@@ -8,4 +8,4 @@ Please download the above files and complete the following:
 
 All assets are included in the images folder and the font being used in the design is Open Sans by Google.
 
-Please zip the files and email to danny.angus@hoppa.com and howard@hoppa.com
+Please zip the files and email to danny.angus@hoppa.com
