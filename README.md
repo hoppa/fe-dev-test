@@ -9,6 +9,6 @@ Please download the above files and complete the following:
 All assets are included in the images folder and the font being used in the design is Open Sans by Google.
 
 Please do one (only) of the following
-* create a pull request and email phani@hoppa.com and danny.angus@hoppa.com to let us know that it is ready to review
+* create a pull request and email phani@hoppa.com to let us know that it is ready to review
 * zip your files and upload the zip to a file sharing service and share the link with phani@hoppa.com and danny.angus@hoppa.com
-* zip your files and email the zip to phani@hoppa.com and danny.angus@hoppa.com
+* zip your files and email the zip to phani@hoppa.com 
